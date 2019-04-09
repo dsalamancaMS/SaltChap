@@ -1,2 +1,2 @@
-terrafiles/
-
+terrafiles/.terraform
+terrafiles/terraform*
