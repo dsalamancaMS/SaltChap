@@ -14,12 +14,5 @@ var server = http.createServer(function (req, res) {
     });
 });
 
-exports.listen = function () {
-    server.listen.apply(server, arguments);
-};
-  
-exports.close = function (callback) {
-    server.close(callback);
-};
 
 server.listen(8080);
