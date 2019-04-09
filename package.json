@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-site",
+  "version": "0.0.0",
+  "description": "nodejs-website",
+  "main": "server.js",
+  "author": {
+    "name": "desalamanca"
+  },
+  "dependencies": {
+    "natives": "^1.1.6",
+    "ejs": "^2.4.1"
+  }
+}
